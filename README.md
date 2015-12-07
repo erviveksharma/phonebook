@@ -1,5 +1,5 @@
 # Phonebook
-The same app is placed on http://provisdemo.com/phonebook/ , please always try it out there with same given credentials below to understand the basic functionalities offers by the application. 
+The same app is placed on http://provisdemo.com/phonebook/ , please always try it out there with to understand the basic functionalities offers by the application. 
 
 #Installation and Running
  
